@@ -145,7 +145,7 @@ export function AboutUsContent() {
                     <div className="col-lg-6 col-12">
                         <div id="testimonial-slider" className="owl-carousel">
                             <div className="testimonial">
-                                <div className="testimonial-content">
+                                <div className="testimonial-content-about">
                                     <p className={'heading'}>Incredible Experience</p>
                                     <p className="description">We had an incredible experience working with Landify and were impressed
                                         They made such a big difference in only three weeks. Our team is so
@@ -164,7 +164,7 @@ export function AboutUsContent() {
                     <div className="col-lg-6 col-12">
                         <div id="testimonial-slider" className="owl-carousel">
                             <div className="testimonial" >
-                                <div className="testimonial-content">
+                                <div className="testimonial-content-about">
                                     <p className={'heading'}>Dependable, Responsive, Professional Partner</p>
                                     <p className="description">
                                         Fermin App has collaborated with Landify team for several projects such

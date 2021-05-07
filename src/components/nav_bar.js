@@ -8,6 +8,9 @@ function NavBar(props) {
        function setBgColor(colorValue) {
           setColor(colorValue);
        }
+       useEffect(()=>{
+            window.location.href.endsWith('/') ? setBgColor("#036cac") : setBgColor('#009580');
+       });
 
 
     return (
